@@ -10,4 +10,5 @@ The leaderboard is evaluated on the **log_loss**.
 #### No. of Registered: 483
 #### Rank: 1
 [Leaderboard](https://www.machinehack.com/hackathons/glass_quality_prediction_weekend_hackathon_6)<br/>
-[Featured Article](https://analyticsindiamag.com/glass-quality-prediction-hackathon-winners/)
+[Featured Article](https://analyticsindiamag.com/glass-quality-prediction-hackathon-winners/)<br/>
+![alt text](https://github.com/Devesh2707/MachineHack-Glass-Quality-Prediction/blob/master/imgs/Glass_quality_Winners-2048x1536.jpg)
